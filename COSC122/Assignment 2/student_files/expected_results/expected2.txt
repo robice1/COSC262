@@ -1,0 +1,28 @@
+   0 None
+   1 None
+   2 None
+   3 'tt' : ('e', 2) ->
+   4 None
+   5 None
+...
+  20 'te' : ('r', 2) ->
+  21 None
+  22 None
+...
+  30 'er' : (' ', 1) ->
+  31 None
+  32 None
+  33 None
+  34 'pa' : ('t', 1) ->
+  35 None
+  36 None
+  37 None
+  38 ' p' : ('a', 1) ->
+  39 'it' : ('t', 1) ->
+  40 'r ' : ('p', 1) ->
+  41 None
+  42 'pi' : ('t', 1) ->
+  43 'at' : ('t', 1) ->
+  44 None
+  45 None
+...

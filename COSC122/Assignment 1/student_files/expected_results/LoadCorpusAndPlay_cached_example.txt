@@ -1,0 +1,21 @@
+do__________________  00
+doc_________________  10
+docu________________  21
+docum_______________  18
+docume______________  03
+documen_____________  02
+document____________  03
+document ___________  01
+document t__________  02
+document te_________  04
+document tes________  05
+document test_______  03
+document test ______  01
+document test p_____  15
+document test ph____  07
+document test phr___  03
+document test phra__  03
+document test phras_  12
+document test phrase  02
+Solved in 115 guesses.
+Took 0.078864 seconds

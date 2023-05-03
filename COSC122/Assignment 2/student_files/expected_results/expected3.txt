@@ -1,0 +1,23 @@
+   0 ' r' : ('a', 1) ->
+   1 None
+   2 'ra' : ('f', 1) ->
+   3 None
+   4 None
+   5 None
+   6 'if' : ('f', 1) ->
+   7 None
+   8 None
+   9 None
+  10 'ri' : ('f', 1) ->
+  11 'af' : ('f', 1) ->
+  12 None
+  13 None
+...
+  16 'ff' : (' ', 1) ->
+  17 None
+  18 None
+...
+  21 'f ' : ('r', 1) ->
+  22 None
+  23 None
+  24 None
